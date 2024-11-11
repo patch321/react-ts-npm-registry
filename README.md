@@ -1,3 +1,12 @@
+# NPM Registry - React, Typescript, Vite, TailwindCSS
+<img width="1700" alt="image" src="https://github.com/user-attachments/assets/301901f7-3b73-4226-b915-83a969c2dffe">
+<img width="1700" alt="image" src="https://github.com/user-attachments/assets/ad75d0c0-d679-4a1d-9dd6-55cc8865a638">
+<img width="1700" alt="image" src="https://github.com/user-attachments/assets/b10130f0-6820-4431-9acb-838f55236c69">
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
